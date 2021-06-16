@@ -1,0 +1,3 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+PERSONNEL		TAR	315	nouvelle taille enregistrement : 315
+PERSONNEL	SexePers	RUB+		SexePers est une nouvelle rubrique

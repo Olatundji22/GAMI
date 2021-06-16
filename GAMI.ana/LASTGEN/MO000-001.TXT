@@ -1,0 +1,27 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+SERVICE		NFI		nouveau fichier
+PERSONNE		NFI		nouveau fichier
+DIRECTION		NFI		nouveau fichier
+DEMANDE		NFI		nouveau fichier
+MATERIEL		NFI		nouveau fichier
+LIVRAISON		NFI		nouveau fichier
+COMMANDE		NFI		nouveau fichier
+FOURNISSEUR		NFI		nouveau fichier
+TYPE		NFI		nouveau fichier
+CONTENIR		NFI		nouveau fichier
+CONCERNER		NFI		nouveau fichier
+DIRECTION		NWL	DIRECTION (CodeDir) et SERVICE (CodeDir)	Nouvelle liaison entre les fichiers DIRECTION (CodeDir) et SERVICE (CodeDir)
+SERVICE		NWL	SERVICE (CodeSer) et PERSONNE (CodeSer)	Nouvelle liaison entre les fichiers SERVICE (CodeSer) et PERSONNE (CodeSer)
+PERSONNE		NWL	PERSONNE (NumPers) et DEMANDE (NumPers)	Nouvelle liaison entre les fichiers PERSONNE (NumPers) et DEMANDE (NumPers)
+LIVRAISON		NWL	LIVRAISON (NumLivr) et MATERIEL (NumLivr)	Nouvelle liaison entre les fichiers LIVRAISON (NumLivr) et MATERIEL (NumLivr)
+COMMANDE		NWL	COMMANDE (NumCde) et LIVRAISON (NumCde)	Nouvelle liaison entre les fichiers COMMANDE (NumCde) et LIVRAISON (NumCde)
+FOURNISSEUR		NWL	FOURNISSEUR (NumFrs) et COMMANDE (NumFrs)	Nouvelle liaison entre les fichiers FOURNISSEUR (NumFrs) et COMMANDE (NumFrs)
+DIRECTION		NWL	DIRECTION (CodeDir) et COMMANDE (CodeDir)	Nouvelle liaison entre les fichiers DIRECTION (CodeDir) et COMMANDE (CodeDir)
+PERSONNE		NWL	PERSONNE (NumPers) et MATERIEL (NumPers)	Nouvelle liaison entre les fichiers PERSONNE (NumPers) et MATERIEL (NumPers)
+TYPE		NWL	TYPE (RefType) et MATERIEL (RefType)	Nouvelle liaison entre les fichiers TYPE (RefType) et MATERIEL (RefType)
+TYPE		NWL	TYPE (RefType) et CONTENIR (RefType)	Nouvelle liaison entre les fichiers TYPE (RefType) et CONTENIR (RefType)
+DEMANDE		NWL	DEMANDE (NumDem) et CONTENIR (NumDem)	Nouvelle liaison entre les fichiers DEMANDE (NumDem) et CONTENIR (NumDem)
+TYPE		NWL	TYPE (RefType) et CONCERNER (RefType)	Nouvelle liaison entre les fichiers TYPE (RefType) et CONCERNER (RefType)
+COMMANDE		NWL	COMMANDE (NumCde) et CONCERNER (NumCde)	Nouvelle liaison entre les fichiers COMMANDE (NumCde) et CONCERNER (NumCde)
+DEMANDE		NWL	DEMANDE (NumDem) et MATERIEL (NumDem)	Nouvelle liaison entre les fichiers DEMANDE (NumDem) et MATERIEL (NumDem)
+COMMANDE		NWL	COMMANDE (NumCde) et DEMANDE (NumCde)	Nouvelle liaison entre les fichiers COMMANDE (NumCde) et DEMANDE (NumCde)

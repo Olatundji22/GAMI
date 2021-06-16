@@ -1,0 +1,8 @@
+//MO011-012.TXT ANA00011 TO ANA00012
+Contrainte_SERVICE_PERSONNE		MCL	1,n->0,n	
+Contrainte_PERSONNE_MATERIEL		MCL	1,n->0,n	
+Contrainte_TYPE_MATERIEL		MCL	1,n->0,n	
+Contrainte_DEMANDE_TYPE		MCL	1,n->0,n	
+Contrainte_TYPE_COMMANDE		MCL	1,n->0,n	
+Contrainte_COMMANDE_TYPE		MCL	1,n->0,n	
+Contrainte_DEMANDE_COMMANDE		MCL	1,n->0,n	

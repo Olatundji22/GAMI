@@ -1,0 +1,5 @@
+//MO023-024.TXT ANA00023 TO ANA00024
+MATERIEL		TAR	323	nouvelle taille enregistrement : 323
+MATERIEL		IDE+*		fichier avec identifiant
+MATERIEL	IDMATERIEL	RUB+		IDMATERIEL est une nouvelle clé
+MATERIEL	CodeMat	CLE-*		la rubrique CodeMat n'est plus une clé
