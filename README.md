@@ -1,6 +1,6 @@
 # GAMI
 
-Il s'agit d'une application Desktop de Gestion Informatisée du materiel Informatique d'une infrastructure.
+Il s'agit d'une application Desktop de Gestion Informatisée du materiel Informatique du Ministère de la décentratrilé et de la gouvernance locale de mon Pays le Bénin.
 
 Un projet realiser dans le cadre scolaire et ayant fait l'objet d'une soutenance lors de la validation de mon BTS IG(Informatique de Gestion). 
 Entièrement conçu avec WinDev20.
