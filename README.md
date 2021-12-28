@@ -21,3 +21,6 @@ Pour tester l'application vous pouvez directement l'installer sur votre pc via l
 
 ![](screen/utilisateur.jpg?raw=true "Utilisateur") ![](screen/demande.jpg?raw=true "Demande")
 
+
+## Obtenir le projet
+Pour obtenir ce projet, lancer la commande `git clone https://github.com/Olatundji22/GAMI.git`
